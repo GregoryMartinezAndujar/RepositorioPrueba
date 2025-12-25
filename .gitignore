@@ -1,2 +1,2 @@
 # todo lo que se añada en esta archivo no se añadira al repositorio al hacer un commit 
-.html
+*.html
