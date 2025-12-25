@@ -10,3 +10,4 @@ git add . -- añdade tdos los archivos que hayan sido modificados
 git commit -m "mi primer commit"  --subir los archivos
 git log -- ver los commits realizados 
 
+comprobaciones del interfaz
