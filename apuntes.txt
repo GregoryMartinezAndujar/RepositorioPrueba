@@ -1,0 +1,9 @@
+git init 
+git config
+    -git config --global user.name "nombre" --cambia el nombre en los commits a nivel global
+    -git config --global -l -- ver opciones globales 
+    -git config user.name "nombre" --cambia el nombre en los commits a nivel local
+git status
+
+git add + nombre de ficero 
+git add . -- añdade tdos los archivos que hayan sido modificados 
