@@ -1,2 +1,7 @@
 # todo lo que se añada en esta archivo no se añadira al repositorio al hacer un commit 
-*.html
+# *.html  
+pruba.html
+carpeta1/* 
+#ignoraria todo lo que este dentro de esa carpeta 
+
+# son expresiones regulares
