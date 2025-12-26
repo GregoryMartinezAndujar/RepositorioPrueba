@@ -10,5 +10,19 @@ git add . -- añdade tdos los archivos que hayan sido modificados
 git commit -m "mi primer commit"  --subir los archivos
 git log -- ver los commits realizados 
 
+git remote add origin --añade una ruta remota al repositorio local
+git remote add gitlab --añade una ruta remota al repositorio local
+git push nombreRepsositorio--subir los cambios al repositorio remoto 
+git checkout -- deshace los cambios en el working area 
+git restore --staged archivos -- saca el archivo al working area( hacer un git checkout déspues)
+git reset HEAD --deshace los cambios del area de staged del ultimo commit(si hacemos un git add.)
+git reset --soft HEAD~1 --deja el commit en el staged area 
+git reset --hard HEAD~1 --eliminar completamente el commit
+git revert HEAD --deshace el ultimo cambio
+git revert numero de commit --deshace el ultimo cambio
+
+
+
+
 comprobaciones del interfaz 
 subir cambios con visual estudio code 
