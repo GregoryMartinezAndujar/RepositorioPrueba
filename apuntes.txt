@@ -30,3 +30,5 @@ git diff etiqueta1 etiqueta2: Muestra las diferencias entre dos etiquetas difere
 
 comprobaciones del interfaz 
 subir cambios con visual estudio code 
+
+holaaaaaa buenas tardes soy yo 
